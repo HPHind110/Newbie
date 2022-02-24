@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-   printf("Fuck you ! Dit me may!\nAhihi do ngu.");
+   printf("Fuck you ! Dit me may!\n");
    return 0;
 }
