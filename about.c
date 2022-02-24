@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-   printf("Fuck you ! Dit me may!\nHay chon gia dung!");
+   printf("Fuck you !");
    return 0;
 }
